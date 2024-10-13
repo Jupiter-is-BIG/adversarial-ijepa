@@ -1,0 +1,1810 @@
+.409
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.045
+[INFO] Episode 374 / 781 completed
+[INFO] avg. loss: 0.345 | avg. reconstruction loss: 0.174 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.173 | mask_target: 33.413
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.041
+[INFO] Episode 375 / 781 completed
+[INFO] avg. loss: 0.345 | avg. reconstruction loss: 0.174 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.191 | mask_target: 33.404
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.041
+[INFO] Episode 376 / 781 completed
+[INFO] avg. loss: 0.345 | avg. reconstruction loss: 0.173 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.210 | mask_target: 33.395
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.043
+[INFO] Episode 377 / 781 completed
+[INFO] avg. loss: 0.344 | avg. reconstruction loss: 0.173 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.196 | mask_target: 33.402
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.038
+[INFO] Episode 378 / 781 completed
+[INFO] avg. loss: 0.344 | avg. reconstruction loss: 0.173 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.214 | mask_target: 33.393
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.042
+[INFO] Episode 379 / 781 completed
+[INFO] avg. loss: 0.344 | avg. reconstruction loss: 0.172 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.205 | mask_target: 33.397
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.040
+[INFO] Episode 380 / 781 completed
+[INFO] avg. loss: 0.344 | avg. reconstruction loss: 0.172 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.223 | mask_target: 33.388
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.037
+[INFO] Episode 381 / 781 completed
+[INFO] avg. loss: 0.344 | avg. reconstruction loss: 0.172 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.215 | mask_target: 33.393
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.040
+[INFO] Episode 382 / 781 completed
+[INFO] avg. loss: 0.344 | avg. reconstruction loss: 0.171 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.232 | mask_target: 33.384
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.041
+[INFO] Episode 383 / 781 completed
+[INFO] avg. loss: 0.344 | avg. reconstruction loss: 0.171 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.224 | mask_target: 33.388
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.038
+[INFO] Episode 384 / 781 completed
+[INFO] avg. loss: 0.344 | avg. reconstruction loss: 0.171 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.242 | mask_target: 33.379
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.036
+[INFO] Episode 385 / 781 completed
+[INFO] avg. loss: 0.343 | avg. reconstruction loss: 0.170 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.259 | mask_target: 33.370
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.040
+[INFO] Episode 386 / 781 completed
+[INFO] avg. loss: 0.343 | avg. reconstruction loss: 0.170 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.225 | mask_target: 33.388
+
+
+Mean of real predictions: 0.754 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.035
+[INFO] Episode 387 / 781 completed
+[INFO] avg. loss: 0.343 | avg. reconstruction loss: 0.170 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.242 | mask_target: 33.379
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.036
+[INFO] Episode 388 / 781 completed
+[INFO] avg. loss: 0.343 | avg. reconstruction loss: 0.169 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.234 | mask_target: 33.383
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.037
+[INFO] Episode 389 / 781 completed
+[INFO] avg. loss: 0.343 | avg. reconstruction loss: 0.169 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.251 | mask_target: 33.374
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.043
+[INFO] Episode 390 / 781 completed
+[INFO] avg. loss: 0.343 | avg. reconstruction loss: 0.169 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.243 | mask_target: 33.379
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.040
+[INFO] Episode 391 / 781 completed
+[INFO] avg. loss: 0.343 | avg. reconstruction loss: 0.168 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.209 | mask_target: 33.395
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.040
+[INFO] Episode 392 / 781 completed
+[INFO] avg. loss: 0.343 | avg. reconstruction loss: 0.168 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.196 | mask_target: 33.402
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.032
+[INFO] Episode 393 / 781 completed
+[INFO] avg. loss: 0.343 | avg. reconstruction loss: 0.168 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.213 | mask_target: 33.393
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.038
+[INFO] Episode 394 / 781 completed
+[INFO] avg. loss: 0.342 | avg. reconstruction loss: 0.167 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.200 | mask_target: 33.400
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.744
+Reconstruction Loss 0.038
+[INFO] Episode 395 / 781 completed
+[INFO] avg. loss: 0.342 | avg. reconstruction loss: 0.167 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.187 | mask_target: 33.407
+
+
+Mean of real predictions: 0.742 | Mean of fake predictions: 0.744
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.035
+[INFO] Episode 396 / 781 completed
+[INFO] avg. loss: 0.342 | avg. reconstruction loss: 0.167 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.179 | mask_target: 33.411
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.757
+Reconstruction Loss 0.038
+[INFO] Episode 397 / 781 completed
+[INFO] avg. loss: 0.342 | avg. reconstruction loss: 0.166 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.166 | mask_target: 33.417
+
+
+Mean of real predictions: 0.756 | Mean of fake predictions: 0.757
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.038
+[INFO] Episode 398 / 781 completed
+[INFO] avg. loss: 0.342 | avg. reconstruction loss: 0.166 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.158 | mask_target: 33.421
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.745
+Reconstruction Loss 0.039
+[INFO] Episode 399 / 781 completed
+[INFO] avg. loss: 0.342 | avg. reconstruction loss: 0.166 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.175 | mask_target: 33.413
+
+
+Mean of real predictions: 0.743 | Mean of fake predictions: 0.744
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.037
+[INFO] Episode 400 / 781 completed
+[INFO] avg. loss: 0.342 | avg. reconstruction loss: 0.165 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.192 | mask_target: 33.404
+
+
+Mean of real predictions: 0.754 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.039
+[INFO] Episode 401 / 781 completed
+[INFO] avg. loss: 0.342 | avg. reconstruction loss: 0.165 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.184 | mask_target: 33.408
+
+
+Mean of real predictions: 0.755 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.741
+Reconstruction Loss 0.036
+[INFO] Episode 402 / 781 completed
+[INFO] avg. loss: 0.342 | avg. reconstruction loss: 0.165 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.201 | mask_target: 33.400
+
+
+Mean of real predictions: 0.740 | Mean of fake predictions: 0.740
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.032
+[INFO] Episode 403 / 781 completed
+[INFO] avg. loss: 0.342 | avg. reconstruction loss: 0.164 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.193 | mask_target: 33.403
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.758
+Reconstruction Loss 0.032
+[INFO] Episode 404 / 781 completed
+[INFO] avg. loss: 0.341 | avg. reconstruction loss: 0.164 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.210 | mask_target: 33.395
+
+
+Mean of real predictions: 0.757 | Mean of fake predictions: 0.758
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.032
+[INFO] Episode 405 / 781 completed
+[INFO] avg. loss: 0.341 | avg. reconstruction loss: 0.164 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.227 | mask_target: 33.387
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.033
+[INFO] Episode 406 / 781 completed
+[INFO] avg. loss: 0.341 | avg. reconstruction loss: 0.163 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.243 | mask_target: 33.378
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.032
+[INFO] Episode 407 / 781 completed
+[INFO] avg. loss: 0.341 | avg. reconstruction loss: 0.163 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.260 | mask_target: 33.370
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.034
+[INFO] Episode 408 / 781 completed
+[INFO] avg. loss: 0.341 | avg. reconstruction loss: 0.163 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.247 | mask_target: 33.377
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.744
+Reconstruction Loss 0.034
+[INFO] Episode 409 / 781 completed
+[INFO] avg. loss: 0.341 | avg. reconstruction loss: 0.163 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.263 | mask_target: 33.368
+
+
+Mean of real predictions: 0.741 | Mean of fake predictions: 0.742
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.033
+[INFO] Episode 410 / 781 completed
+[INFO] avg. loss: 0.341 | avg. reconstruction loss: 0.162 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.280 | mask_target: 33.360
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.756
+Reconstruction Loss 0.037
+[INFO] Episode 411 / 781 completed
+[INFO] avg. loss: 0.341 | avg. reconstruction loss: 0.162 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.267 | mask_target: 33.367
+
+
+Mean of real predictions: 0.754 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.037
+[INFO] Episode 412 / 781 completed
+[INFO] avg. loss: 0.341 | avg. reconstruction loss: 0.162 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.259 | mask_target: 33.370
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.035
+[INFO] Episode 413 / 781 completed
+[INFO] avg. loss: 0.340 | avg. reconstruction loss: 0.161 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.275 | mask_target: 33.362
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.756
+Reconstruction Loss 0.036
+[INFO] Episode 414 / 781 completed
+[INFO] avg. loss: 0.340 | avg. reconstruction loss: 0.161 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.263 | mask_target: 33.369
+
+
+Mean of real predictions: 0.755 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.036
+[INFO] Episode 415 / 781 completed
+[INFO] avg. loss: 0.340 | avg. reconstruction loss: 0.161 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.279 | mask_target: 33.361
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.033
+[INFO] Episode 416 / 781 completed
+[INFO] avg. loss: 0.340 | avg. reconstruction loss: 0.160 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.271 | mask_target: 33.365
+
+
+Mean of real predictions: 0.744 | Mean of fake predictions: 0.745
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.034
+[INFO] Episode 417 / 781 completed
+[INFO] avg. loss: 0.340 | avg. reconstruction loss: 0.160 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.263 | mask_target: 33.368
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.033
+[INFO] Episode 418 / 781 completed
+[INFO] avg. loss: 0.340 | avg. reconstruction loss: 0.160 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.279 | mask_target: 33.360
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.744
+Reconstruction Loss 0.034
+[INFO] Episode 419 / 781 completed
+[INFO] avg. loss: 0.340 | avg. reconstruction loss: 0.159 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.267 | mask_target: 33.367
+
+
+Mean of real predictions: 0.743 | Mean of fake predictions: 0.744
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.036
+[INFO] Episode 420 / 781 completed
+[INFO] avg. loss: 0.340 | avg. reconstruction loss: 0.159 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.259 | mask_target: 33.371
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.758
+Reconstruction Loss 0.034
+[INFO] Episode 421 / 781 completed
+[INFO] avg. loss: 0.340 | avg. reconstruction loss: 0.159 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.251 | mask_target: 33.374
+
+
+Mean of real predictions: 0.757 | Mean of fake predictions: 0.758
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.033
+[INFO] Episode 422 / 781 completed
+[INFO] avg. loss: 0.340 | avg. reconstruction loss: 0.159 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.239 | mask_target: 33.381
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.745
+Reconstruction Loss 0.034
+[INFO] Episode 423 / 781 completed
+[INFO] avg. loss: 0.339 | avg. reconstruction loss: 0.158 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.226 | mask_target: 33.387
+
+
+Mean of real predictions: 0.744 | Mean of fake predictions: 0.745
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.033
+[INFO] Episode 424 / 781 completed
+[INFO] avg. loss: 0.339 | avg. reconstruction loss: 0.158 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.219 | mask_target: 33.391
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.030
+[INFO] Episode 425 / 781 completed
+[INFO] avg. loss: 0.339 | avg. reconstruction loss: 0.158 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.235 | mask_target: 33.383
+
+
+Mean of real predictions: 0.756 | Mean of fake predictions: 0.756
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.033
+[INFO] Episode 426 / 781 completed
+[INFO] avg. loss: 0.339 | avg. reconstruction loss: 0.157 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.251 | mask_target: 33.375
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.743
+Reconstruction Loss 0.032
+[INFO] Episode 427 / 781 completed
+[INFO] avg. loss: 0.339 | avg. reconstruction loss: 0.157 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.266 | mask_target: 33.367
+
+
+Mean of real predictions: 0.742 | Mean of fake predictions: 0.743
+Mean of fake predictions pre-train 0.756
+Reconstruction Loss 0.027
+[INFO] Episode 428 / 781 completed
+[INFO] avg. loss: 0.339 | avg. reconstruction loss: 0.157 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.282 | mask_target: 33.359
+
+
+Mean of real predictions: 0.755 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.033
+[INFO] Episode 429 / 781 completed
+[INFO] avg. loss: 0.339 | avg. reconstruction loss: 0.157 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.274 | mask_target: 33.363
+
+
+Mean of real predictions: 0.755 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.744
+Reconstruction Loss 0.033
+[INFO] Episode 430 / 781 completed
+[INFO] avg. loss: 0.339 | avg. reconstruction loss: 0.156 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.267 | mask_target: 33.367
+
+
+Mean of real predictions: 0.742 | Mean of fake predictions: 0.743
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.029
+[INFO] Episode 431 / 781 completed
+[INFO] avg. loss: 0.339 | avg. reconstruction loss: 0.156 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.259 | mask_target: 33.370
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.757
+Reconstruction Loss 0.034
+[INFO] Episode 432 / 781 completed
+[INFO] avg. loss: 0.339 | avg. reconstruction loss: 0.156 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.247 | mask_target: 33.376
+
+
+Mean of real predictions: 0.755 | Mean of fake predictions: 0.756
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.032
+[INFO] Episode 433 / 781 completed
+[INFO] avg. loss: 0.338 | avg. reconstruction loss: 0.155 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.235 | mask_target: 33.382
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.033
+[INFO] Episode 434 / 781 completed
+[INFO] avg. loss: 0.338 | avg. reconstruction loss: 0.155 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.223 | mask_target: 33.389
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.032
+[INFO] Episode 435 / 781 completed
+[INFO] avg. loss: 0.338 | avg. reconstruction loss: 0.155 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.216 | mask_target: 33.392
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.034
+[INFO] Episode 436 / 781 completed
+[INFO] avg. loss: 0.338 | avg. reconstruction loss: 0.155 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.208 | mask_target: 33.396
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.034
+[INFO] Episode 437 / 781 completed
+[INFO] avg. loss: 0.338 | avg. reconstruction loss: 0.154 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.201 | mask_target: 33.400
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.032
+[INFO] Episode 438 / 781 completed
+[INFO] avg. loss: 0.338 | avg. reconstruction loss: 0.154 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.189 | mask_target: 33.405
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.029
+[INFO] Episode 439 / 781 completed
+[INFO] avg. loss: 0.338 | avg. reconstruction loss: 0.154 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.205 | mask_target: 33.398
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.034
+[INFO] Episode 440 / 781 completed
+[INFO] avg. loss: 0.338 | avg. reconstruction loss: 0.153 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.175 | mask_target: 33.413
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.032
+[INFO] Episode 441 / 781 completed
+[INFO] avg. loss: 0.338 | avg. reconstruction loss: 0.153 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.167 | mask_target: 33.416
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.031
+[INFO] Episode 442 / 781 completed
+[INFO] avg. loss: 0.338 | avg. reconstruction loss: 0.153 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.183 | mask_target: 33.409
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.031
+[INFO] Episode 443 / 781 completed
+[INFO] avg. loss: 0.338 | avg. reconstruction loss: 0.153 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.171 | mask_target: 33.414
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.029
+[INFO] Episode 444 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.152 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.164 | mask_target: 33.418
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.028
+[INFO] Episode 445 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.152 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.157 | mask_target: 33.422
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.029
+[INFO] Episode 446 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.152 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.172 | mask_target: 33.414
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.031
+[INFO] Episode 447 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.152 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.161 | mask_target: 33.420
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.031
+[INFO] Episode 448 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.151 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.176 | mask_target: 33.412
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.030
+[INFO] Episode 449 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.151 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.191 | mask_target: 33.404
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.030
+[INFO] Episode 450 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.151 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.184 | mask_target: 33.408
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.032
+[INFO] Episode 451 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.150 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.177 | mask_target: 33.412
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.028
+[INFO] Episode 452 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.150 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.170 | mask_target: 33.415
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.034
+[INFO] Episode 453 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.150 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.159 | mask_target: 33.421
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.031
+[INFO] Episode 454 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.150 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.174 | mask_target: 33.413
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.029
+[INFO] Episode 455 / 781 completed
+[INFO] avg. loss: 0.337 | avg. reconstruction loss: 0.149 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.189 | mask_target: 33.406
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.031
+[INFO] Episode 456 / 781 completed
+[INFO] avg. loss: 0.336 | avg. reconstruction loss: 0.149 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.182 | mask_target: 33.409
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.029
+[INFO] Episode 457 / 781 completed
+[INFO] avg. loss: 0.336 | avg. reconstruction loss: 0.149 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.197 | mask_target: 33.402
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.029
+[INFO] Episode 458 / 781 completed
+[INFO] avg. loss: 0.336 | avg. reconstruction loss: 0.149 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.185 | mask_target: 33.407
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.032
+[INFO] Episode 459 / 781 completed
+[INFO] avg. loss: 0.336 | avg. reconstruction loss: 0.148 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.174 | mask_target: 33.413
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.031
+[INFO] Episode 460 / 781 completed
+[INFO] avg. loss: 0.336 | avg. reconstruction loss: 0.148 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.163 | mask_target: 33.419
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.027
+[INFO] Episode 461 / 781 completed
+[INFO] avg. loss: 0.336 | avg. reconstruction loss: 0.148 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.177 | mask_target: 33.411
+
+
+Mean of real predictions: 0.754 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.025
+[INFO] Episode 462 / 781 completed
+[INFO] avg. loss: 0.336 | avg. reconstruction loss: 0.148 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.192 | mask_target: 33.404
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.028
+[INFO] Episode 463 / 781 completed
+[INFO] avg. loss: 0.336 | avg. reconstruction loss: 0.147 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.207 | mask_target: 33.397
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.032
+[INFO] Episode 464 / 781 completed
+[INFO] avg. loss: 0.336 | avg. reconstruction loss: 0.147 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.196 | mask_target: 33.402
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.029
+[INFO] Episode 465 / 781 completed
+[INFO] avg. loss: 0.336 | avg. reconstruction loss: 0.147 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.189 | mask_target: 33.406
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.027
+[INFO] Episode 466 / 781 completed
+[INFO] avg. loss: 0.336 | avg. reconstruction loss: 0.147 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.203 | mask_target: 33.398
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.030
+[INFO] Episode 467 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.146 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.197 | mask_target: 33.402
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.029
+[INFO] Episode 468 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.146 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.190 | mask_target: 33.405
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.031
+[INFO] Episode 469 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.146 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.183 | mask_target: 33.409
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.029
+[INFO] Episode 470 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.146 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.197 | mask_target: 33.401
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.029
+[INFO] Episode 471 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.145 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.212 | mask_target: 33.394
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.029
+[INFO] Episode 472 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.145 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.201 | mask_target: 33.400
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.027
+[INFO] Episode 473 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.145 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.194 | mask_target: 33.403
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.028
+[INFO] Episode 474 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.145 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.187 | mask_target: 33.406
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.027
+[INFO] Episode 475 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.144 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.202 | mask_target: 33.399
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.027
+[INFO] Episode 476 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.144 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.195 | mask_target: 33.403
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.027
+[INFO] Episode 477 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.144 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.184 | mask_target: 33.408
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.025
+[INFO] Episode 478 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.144 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.198 | mask_target: 33.401
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.029
+[INFO] Episode 479 / 781 completed
+[INFO] avg. loss: 0.335 | avg. reconstruction loss: 0.143 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.188 | mask_target: 33.406
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.029
+[INFO] Episode 480 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.143 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.202 | mask_target: 33.399
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.028
+[INFO] Episode 481 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.143 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.195 | mask_target: 33.402
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.028
+[INFO] Episode 482 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.143 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.188 | mask_target: 33.406
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.030
+[INFO] Episode 483 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.142 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.178 | mask_target: 33.411
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.030
+[INFO] Episode 484 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.142 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.151 | mask_target: 33.425
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.029
+[INFO] Episode 485 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.142 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.165 | mask_target: 33.418
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.030
+[INFO] Episode 486 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.142 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.179 | mask_target: 33.411
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.030
+[INFO] Episode 487 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.141 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.193 | mask_target: 33.404
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.026
+[INFO] Episode 488 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.141 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.207 | mask_target: 33.397
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.028
+[INFO] Episode 489 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.141 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.196 | mask_target: 33.402
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.027
+[INFO] Episode 490 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.141 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.210 | mask_target: 33.395
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.027
+[INFO] Episode 491 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.141 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.224 | mask_target: 33.388
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.026
+[INFO] Episode 492 / 781 completed
+[INFO] avg. loss: 0.334 | avg. reconstruction loss: 0.140 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.217 | mask_target: 33.391
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.026
+[INFO] Episode 493 / 781 completed
+[INFO] avg. loss: 0.333 | avg. reconstruction loss: 0.140 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.211 | mask_target: 33.395
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.025
+[INFO] Episode 494 / 781 completed
+[INFO] avg. loss: 0.333 | avg. reconstruction loss: 0.140 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.224 | mask_target: 33.388
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.028
+[INFO] Episode 495 / 781 completed
+[INFO] avg. loss: 0.333 | avg. reconstruction loss: 0.140 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.218 | mask_target: 33.391
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.027
+[INFO] Episode 496 / 781 completed
+[INFO] avg. loss: 0.333 | avg. reconstruction loss: 0.139 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.211 | mask_target: 33.394
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.026
+[INFO] Episode 497 / 781 completed
+[INFO] avg. loss: 0.333 | avg. reconstruction loss: 0.139 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.225 | mask_target: 33.388
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.024
+[INFO] Episode 498 / 781 completed
+[INFO] avg. loss: 0.333 | avg. reconstruction loss: 0.139 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.238 | mask_target: 33.381
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.027
+[INFO] Episode 499 / 781 completed
+[INFO] avg. loss: 0.333 | avg. reconstruction loss: 0.139 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.252 | mask_target: 33.374
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.028
+[INFO] Episode 500 / 781 completed
+[INFO] avg. loss: 0.333 | avg. reconstruction loss: 0.138 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.265 | mask_target: 33.367
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.029
+[INFO] Episode 501 / 781 completed
+[INFO] avg. loss: 0.333 | avg. reconstruction loss: 0.138 | avg. generator loss: 0.289 | avg. discriminator loss: 0.840 | mask_ctx: 102.279 | mask_target: 33.361
+
+
+
+
+
+
+-----------
+
+
+
+
+
+
+.379
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.019
+[INFO] Episode 622 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.116 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.252 | mask_target: 33.374
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.020
+[INFO] Episode 623 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.116 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.263 | mask_target: 33.369
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.019
+[INFO] Episode 624 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.115 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.258 | mask_target: 33.371
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.018
+[INFO] Episode 625 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.115 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.268 | mask_target: 33.366
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.018
+[INFO] Episode 626 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.115 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.279 | mask_target: 33.360
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.018
+[INFO] Episode 627 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.115 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.271 | mask_target: 33.365
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.020
+[INFO] Episode 628 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.115 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.262 | mask_target: 33.369
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.020
+[INFO] Episode 629 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.115 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.257 | mask_target: 33.371
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.021
+[INFO] Episode 630 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.115 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.252 | mask_target: 33.374
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.019
+[INFO] Episode 631 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.114 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.231 | mask_target: 33.384
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.020
+[INFO] Episode 632 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.114 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.226 | mask_target: 33.387
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.020
+[INFO] Episode 633 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.114 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.218 | mask_target: 33.391
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.019
+[INFO] Episode 634 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.114 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.213 | mask_target: 33.394
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.020
+[INFO] Episode 635 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.114 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.204 | mask_target: 33.398
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.019
+[INFO] Episode 636 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.114 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.215 | mask_target: 33.392
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.019
+[INFO] Episode 637 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.113 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.207 | mask_target: 33.397
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.020
+[INFO] Episode 638 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.113 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.202 | mask_target: 33.399
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.017
+[INFO] Episode 639 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.113 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.213 | mask_target: 33.394
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.018
+[INFO] Episode 640 / 781 completed
+[INFO] avg. loss: 0.325 | avg. reconstruction loss: 0.113 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.223 | mask_target: 33.388
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.020
+[INFO] Episode 641 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.113 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.215 | mask_target: 33.393
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.018
+[INFO] Episode 642 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.113 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.226 | mask_target: 33.387
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.018
+[INFO] Episode 643 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.113 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.217 | mask_target: 33.391
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.020
+[INFO] Episode 644 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.112 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.209 | mask_target: 33.395
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.020
+[INFO] Episode 645 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.112 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.220 | mask_target: 33.390
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.019
+[INFO] Episode 646 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.112 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.230 | mask_target: 33.385
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.017
+[INFO] Episode 647 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.112 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.241 | mask_target: 33.380
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.021
+[INFO] Episode 648 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.112 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.251 | mask_target: 33.374
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.018
+[INFO] Episode 649 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.112 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.246 | mask_target: 33.377
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.020
+[INFO] Episode 650 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.112 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.257 | mask_target: 33.372
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.016
+[INFO] Episode 651 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.111 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.267 | mask_target: 33.367
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.018
+[INFO] Episode 652 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.111 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.277 | mask_target: 33.361
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.018
+[INFO] Episode 653 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.111 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.272 | mask_target: 33.364
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.018
+[INFO] Episode 654 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.111 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.267 | mask_target: 33.366
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.017
+[INFO] Episode 655 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.111 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.277 | mask_target: 33.361
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.018
+[INFO] Episode 656 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.111 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.288 | mask_target: 33.356
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.020
+[INFO] Episode 657 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.111 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.280 | mask_target: 33.360
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.018
+[INFO] Episode 658 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.110 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.290 | mask_target: 33.355
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.017
+[INFO] Episode 659 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.110 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.285 | mask_target: 33.358
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.020
+[INFO] Episode 660 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.110 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.280 | mask_target: 33.360
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.019
+[INFO] Episode 661 / 781 completed
+[INFO] avg. loss: 0.324 | avg. reconstruction loss: 0.110 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.290 | mask_target: 33.355
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.020
+[INFO] Episode 662 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.110 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.300 | mask_target: 33.350
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.017
+[INFO] Episode 663 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.110 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.310 | mask_target: 33.345
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.017
+[INFO] Episode 664 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.110 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.320 | mask_target: 33.340
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.018
+[INFO] Episode 665 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.109 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.330 | mask_target: 33.335
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.018
+[INFO] Episode 666 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.109 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.322 | mask_target: 33.339
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.019
+[INFO] Episode 667 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.109 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.332 | mask_target: 33.334
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.018
+[INFO] Episode 668 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.109 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.342 | mask_target: 33.329
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.019
+[INFO] Episode 669 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.109 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.337 | mask_target: 33.331
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.018
+[INFO] Episode 670 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.109 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.347 | mask_target: 33.326
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.018
+[INFO] Episode 671 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.109 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.357 | mask_target: 33.321
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.017
+[INFO] Episode 672 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.109 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.367 | mask_target: 33.316
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.018
+[INFO] Episode 673 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.108 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.377 | mask_target: 33.312
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.019
+[INFO] Episode 674 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.108 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.372 | mask_target: 33.314
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.020
+[INFO] Episode 675 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.108 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.367 | mask_target: 33.317
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.018
+[INFO] Episode 676 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.108 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.377 | mask_target: 33.312
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.019
+[INFO] Episode 677 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.108 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.369 | mask_target: 33.316
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.017
+[INFO] Episode 678 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.108 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.378 | mask_target: 33.311
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.019
+[INFO] Episode 679 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.108 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.371 | mask_target: 33.315
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.017
+[INFO] Episode 680 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.107 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.380 | mask_target: 33.310
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.018
+[INFO] Episode 681 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.107 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.390 | mask_target: 33.305
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.020
+[INFO] Episode 682 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.107 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.400 | mask_target: 33.300
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.019
+[INFO] Episode 683 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.107 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.395 | mask_target: 33.303
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.018
+[INFO] Episode 684 / 781 completed
+[INFO] avg. loss: 0.323 | avg. reconstruction loss: 0.107 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.404 | mask_target: 33.298
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.018
+[INFO] Episode 685 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.107 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.399 | mask_target: 33.300
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.020
+[INFO] Episode 686 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.107 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.394 | mask_target: 33.303
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.019
+[INFO] Episode 687 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.107 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.404 | mask_target: 33.298
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.017
+[INFO] Episode 688 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.106 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.414 | mask_target: 33.293
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.017
+[INFO] Episode 689 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.106 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.423 | mask_target: 33.288
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.018
+[INFO] Episode 690 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.106 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.433 | mask_target: 33.284
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.019
+[INFO] Episode 691 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.106 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.428 | mask_target: 33.286
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.018
+[INFO] Episode 692 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.106 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.437 | mask_target: 33.281
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.017
+[INFO] Episode 693 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.106 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.447 | mask_target: 33.277
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.017
+[INFO] Episode 694 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.106 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.456 | mask_target: 33.272
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.018
+[INFO] Episode 695 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.106 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.451 | mask_target: 33.274
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.018
+[INFO] Episode 696 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.105 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.443 | mask_target: 33.278
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.020
+[INFO] Episode 697 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.105 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.438 | mask_target: 33.281
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.018
+[INFO] Episode 698 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.105 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.448 | mask_target: 33.276
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.019
+[INFO] Episode 699 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.105 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.457 | mask_target: 33.271
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.017
+[INFO] Episode 700 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.105 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.466 | mask_target: 33.267
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.018
+[INFO] Episode 701 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.105 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.462 | mask_target: 33.269
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.016
+[INFO] Episode 702 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.105 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.457 | mask_target: 33.272
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.018
+[INFO] Episode 703 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.105 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.452 | mask_target: 33.274
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.018
+[INFO] Episode 704 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.104 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.461 | mask_target: 33.270
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.017
+[INFO] Episode 705 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.104 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.470 | mask_target: 33.265
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.017
+[INFO] Episode 706 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.104 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.479 | mask_target: 33.260
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.019
+[INFO] Episode 707 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.104 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.472 | mask_target: 33.264
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.018
+[INFO] Episode 708 / 781 completed
+[INFO] avg. loss: 0.322 | avg. reconstruction loss: 0.104 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.467 | mask_target: 33.267
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.018
+[INFO] Episode 709 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.104 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.462 | mask_target: 33.269
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.017
+[INFO] Episode 710 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.104 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.454 | mask_target: 33.273
+
+
+Mean of real predictions: 0.751 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.018
+[INFO] Episode 711 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.104 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.449 | mask_target: 33.275
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.019
+[INFO] Episode 712 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.103 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.459 | mask_target: 33.271
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.016
+[INFO] Episode 713 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.103 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.468 | mask_target: 33.266
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.018
+[INFO] Episode 714 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.103 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.460 | mask_target: 33.270
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.018
+[INFO] Episode 715 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.103 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.455 | mask_target: 33.272
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.018
+[INFO] Episode 716 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.103 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.448 | mask_target: 33.276
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.018
+[INFO] Episode 717 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.103 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.443 | mask_target: 33.279
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.752
+Reconstruction Loss 0.018
+[INFO] Episode 718 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.103 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.438 | mask_target: 33.281
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.017
+[INFO] Episode 719 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.103 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.447 | mask_target: 33.276
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.017
+[INFO] Episode 720 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.103 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.456 | mask_target: 33.272
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.017
+[INFO] Episode 721 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.102 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.452 | mask_target: 33.274
+
+
+Mean of real predictions: 0.754 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.017
+[INFO] Episode 722 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.102 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.447 | mask_target: 33.277
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.017
+[INFO] Episode 723 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.102 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.456 | mask_target: 33.272
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.019
+[INFO] Episode 724 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.102 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.465 | mask_target: 33.268
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.018
+[INFO] Episode 725 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.102 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.460 | mask_target: 33.270
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.017
+[INFO] Episode 726 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.102 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.455 | mask_target: 33.272
+
+
+Mean of real predictions: 0.749 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.017
+[INFO] Episode 727 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.102 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.448 | mask_target: 33.276
+
+
+Mean of real predictions: 0.754 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.017
+[INFO] Episode 728 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.102 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.457 | mask_target: 33.272
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.017
+[INFO] Episode 729 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.101 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.452 | mask_target: 33.274
+
+
+Mean of real predictions: 0.747 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.017
+[INFO] Episode 730 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.101 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.447 | mask_target: 33.276
+
+
+Mean of real predictions: 0.754 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.749
+Reconstruction Loss 0.017
+[INFO] Episode 731 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.101 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.456 | mask_target: 33.272
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.751
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.017
+[INFO] Episode 732 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.101 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.452 | mask_target: 33.274
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.745
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.017
+[INFO] Episode 733 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.101 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.460 | mask_target: 33.270
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.017
+[INFO] Episode 734 / 781 completed
+[INFO] avg. loss: 0.321 | avg. reconstruction loss: 0.101 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.453 | mask_target: 33.273
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.753
+Mean of fake predictions pre-train 0.745
+Reconstruction Loss 0.017
+[INFO] Episode 735 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.101 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.462 | mask_target: 33.269
+
+
+Mean of real predictions: 0.744 | Mean of fake predictions: 0.745
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.019
+[INFO] Episode 736 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.101 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.457 | mask_target: 33.271
+
+
+Mean of real predictions: 0.750 | Mean of fake predictions: 0.750
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.016
+[INFO] Episode 737 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.101 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.466 | mask_target: 33.267
+
+
+Mean of real predictions: 0.755 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.745
+Reconstruction Loss 0.016
+[INFO] Episode 738 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.100 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.475 | mask_target: 33.263
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.750
+Reconstruction Loss 0.017
+[INFO] Episode 739 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.100 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.484 | mask_target: 33.258
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.755
+Reconstruction Loss 0.017
+[INFO] Episode 740 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.100 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.479 | mask_target: 33.260
+
+
+Mean of real predictions: 0.755 | Mean of fake predictions: 0.756
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.018
+[INFO] Episode 741 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.100 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.472 | mask_target: 33.264
+
+
+Mean of real predictions: 0.746 | Mean of fake predictions: 0.747
+Mean of fake predictions pre-train 0.747
+Reconstruction Loss 0.018
+[INFO] Episode 742 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.100 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.464 | mask_target: 33.268
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.748
+Mean of fake predictions pre-train 0.756
+Reconstruction Loss 0.016
+[INFO] Episode 743 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.100 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.473 | mask_target: 33.263
+
+
+Mean of real predictions: 0.755 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.748
+Reconstruction Loss 0.018
+[INFO] Episode 744 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.100 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.466 | mask_target: 33.267
+
+
+Mean of real predictions: 0.748 | Mean of fake predictions: 0.749
+Mean of fake predictions pre-train 0.746
+Reconstruction Loss 0.016
+[INFO] Episode 745 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.100 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.458 | mask_target: 33.271
+
+
+Mean of real predictions: 0.745 | Mean of fake predictions: 0.746
+Mean of fake predictions pre-train 0.754
+Reconstruction Loss 0.018
+[INFO] Episode 746 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.100 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.440 | mask_target: 33.280
+
+
+Mean of real predictions: 0.755 | Mean of fake predictions: 0.755
+Mean of fake predictions pre-train 0.751
+Reconstruction Loss 0.017
+[INFO] Episode 747 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.099 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.449 | mask_target: 33.275
+
+
+Mean of real predictions: 0.752 | Mean of fake predictions: 0.752
+Mean of fake predictions pre-train 0.744
+Reconstruction Loss 0.018
+[INFO] Episode 748 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.099 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.445 | mask_target: 33.278
+
+
+Mean of real predictions: 0.742 | Mean of fake predictions: 0.743
+Mean of fake predictions pre-train 0.753
+Reconstruction Loss 0.017
+[INFO] Episode 749 / 781 completed
+[INFO] avg. loss: 0.320 | avg. reconstruction loss: 0.099 | avg. generator loss: 0.288 | avg. discriminator loss: 0.839 | mask_ctx: 102.437 | mask_target: 33.281
+
+
+Mean of real predictions: 0.753 | Mean of fake predictions: 0.754
